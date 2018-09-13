@@ -7,6 +7,9 @@
  */
 const getFlags = arr => {
   /* your logic here...*/
+  
+  /* I'm sorry, I have no practice. Maybe next time. Thank you for giving me a chance. */
+  
 };
 
 export default getFlags;
